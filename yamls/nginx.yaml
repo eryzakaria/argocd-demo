@@ -15,5 +15,5 @@ spec:
         app: nginx
     spec:
       containers:
-      - image: asefamarudin/asef-lp:latest
+      - image: eryzakaria14/butterfly:latest
         name: nginx
